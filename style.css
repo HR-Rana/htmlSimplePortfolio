@@ -373,19 +373,19 @@ nav ul li a:hover {
   -o-border-radius: var(--borderRadius);
 }
 .Portfolio-area .col-md-4:nth-child(1) .project {
-  background-image: url(./images/PortfolioImg/teamSecret.png);
+  background-image: url(/images/PortfolioImg/teamSecret.png);
 }
 .Portfolio-area .col-md-4:nth-child(2) .project {
-  background-image: url(./images/PortfolioImg/greenyResturant.png);
+  background-image: url(/images/PortfolioImg/greenyResturant.png);
 }
 .Portfolio-area .col-md-4:nth-child(3) .project {
-  background-image: url(./images/PortfolioImg/sheed\ Aquariam.png);
+  background-image: url(/images/PortfolioImg/sheed\ Aquariam.png);
 }
 .Portfolio-area .col-md-4:nth-child(4) .project {
-  background-image: url(./images/PortfolioImg/ebookPSD.png);
+  background-image: url(/images/PortfolioImg/ebookPSD.png);
 }
 .Portfolio-area .col-md-4:nth-child(5) .project {
-  background-image: url(./images/PortfolioImg/loywr\ GovAssist.png);
+  background-image: url(/images/PortfolioImg/loywr\ GovAssist.png);
 }
 .Portfolio-area .col-md-4:nth-child(6) .project {
   background-image: url(./images/dataSolution.png);
